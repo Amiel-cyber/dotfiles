@@ -6,7 +6,7 @@
 left down up right
 h    j    k  l
 </pre>
-![Basic Movements](https://github.com/Amiel-cyber/dotfiles/blob/main/vim_gifs/basic_movements.gif)
+![Basic Movements](https://github.com/Amiel-cyber/dotfiles/blob/main/vim_gifs/basic_movments.gif)
 ### Scrolling
 `<ctrl> d` move half a page <ins>**d**</ins>own\
 `<ctrl> u` move half a page <ins>**u**</ins>p\
@@ -25,14 +25,14 @@ h    j    k  l
 `W` move forward by <ins>**W**</ins>ord (ignore substrings or brackets,parantheses, etc)\
 `B` move <ins>**B**</ins>ackward by word (ignore substrings or brackets,parantheses, etc)\
 `e` move forward to the <ins>**e**</ins>nd of a word\
-![Word Movements](https://github.com/Amiel-cyber/dotfiles/blob/main/word_movements.gif)
+![Word Movements](https://github.com/Amiel-cyber/dotfiles/blob/main/vim_gifs/word_movement.gif)
 ### Line Movements
 `$` move to the end of line($ end in regex)\
 `0` move to the begining of the line(0 begining in regex)\
 `}` Go to next paragraph/code section\
 `}` Go to previous paragraph/code section \
 `%` go to the end of paranthesis or bracket\
-![Line Movements](https://github.com/Amiel-cyber/dotfiles/blob/main/vim_gifs/line_movements.gif)
+![Line Movements](https://github.com/Amiel-cyber/dotfiles/blob/main/vim_gifs/line_movement.gif)
 ## Edits
 ### Inserts
 `i` <ins>**i**</ins>nsert to cursor to begin entering letters\
