@@ -6,33 +6,33 @@
 left down up right
 h    j    k  l
 </pre>
-![Basic Movements](https://github.com/Amiel-cyber/dotfiles/vim_gifs/basic_movements.gif)
+![Basic Movements](https://github.com/Amiel-cyber/dotfiles/blob/main/vim_gifs/basic_movements.gif)
 ### Scrolling
 `<ctrl> d` move half a page <ins>**d**</ins>own\
 `<ctrl> u` move half a page <ins>**u**</ins>p\
 `<ctrl> f` move a page <ins>**f**</ins>orward\
 `<ctrl> b` move a page <ins>**b**</ins>ackward\
-![Scrolling](https://github.com/Amiel-cyber/dotfiles/vim_gifs/scrolling.gif)
+![Scrolling](https://github.com/Amiel-cyber/dotfiles/blob/main/vim_gifs/scrolling.gif)
 ### File Location
 `G` <ins>**G**</ins>o to the bottom of the file\
 `gg` go to the top of the file\
 `[line_number]G` go to line number x\
 `<ctrl> G` show status and location\
-![File jumping](https://github.com/Amiel-cyber/dotfiles/vim_gifs/file_location.gif)
+![File jumping](https://github.com/Amiel-cyber/dotfiles/blob/main/vim_gifs/file_location.gif)
 ### Word Movements
 `w` move forward by <ins>**w**</ins>ord\
 `b` move <ins>**b**</ins>ackward by word\
 `W` move forward by <ins>**W**</ins>ord (ignore substrings or brackets,parantheses, etc)\
 `B` move <ins>**B**</ins>ackward by word (ignore substrings or brackets,parantheses, etc)\
 `e` move forward to the <ins>**e**</ins>nd of a word\
-![Word Movements](https://github.com/Amiel-cyber/dotfiles/word_movements.gif)
+![Word Movements](https://github.com/Amiel-cyber/dotfiles/blob/main/word_movements.gif)
 ### Line Movements
 `$` move to the end of line($ end in regex)\
 `0` move to the begining of the line(0 begining in regex)\
 `}` Go to next paragraph/code section\
 `}` Go to previous paragraph/code section \
 `%` go to the end of paranthesis or bracket\
-![Line Movements](https://github.com/Amiel-cyber/dotfiles/vim_gifs/line_movements.gif)
+![Line Movements](https://github.com/Amiel-cyber/dotfiles/blob/main/vim_gifs/line_movements.gif)
 ## Edits
 ### Inserts
 `i` <ins>**i**</ins>nsert to cursor to begin entering letters\
@@ -41,7 +41,7 @@ h    j    k  l
 `O` <ins>**O**</ins>ppens a line above and inserts\
 `a` <ins>**a**</ins>pppend to the current character\
 `A` <ins>**A**</ins>ppend to the end of the line\
-![Inserts](https://github.com/Amiel-cyber/dotfiles/vim_gifs/inserts.gif)
+![Inserts](https://github.com/Amiel-cyber/dotfiles/blob/main/vim_gifs/inserts.gif)
 ### Character and Word Edits
 `x` delete a character on cursor\
 `X` delete a character before cursor\
@@ -51,7 +51,7 @@ h    j    k  l
 `u` <ins>**u**</ins>ndo last command\
 `U` <ins>**U**</ins>ndo any changes done to a line\
 `<ctrl> r` <ins>**r**</ins>edo any changes\
-![Edits](https://github.com/Amiel-cyber/dotfiles/vim_gifs/edits.gif)
+![Edits](https://github.com/Amiel-cyber/dotfiles/blob/main/vim_gifs/edits.gif)
 ### Line Edits
 `d` <ins>**d**</ins>elete operator\
 `dd` delete a line\
@@ -59,11 +59,11 @@ h    j    k  l
 `yy` yank a line\
 `p` <ins>**p**</ins>aste below current line\
 `P` <ins>**P**</ins>aste above current line\
-![Line edits](https://github.com/Amiel-cyber/dotfiles/vim_gifs/line_edits.gif)
+![Line edits](https://github.com/Amiel-cyber/dotfiles/blob/main/vim_gifs/line_edits.gif)
 ## Exiting and Saving Vim
 `:q` <ins>**q**</ins>uit vim\
 `:q!` quit vim without saving \
-![Line edits](https://github.com/Amiel-cyber/dotfiles/vim_gifs/quit_vim.png)
+![Line edits](https://github.com/Amiel-cyber/dotfiles/blob/main/vim_gifs/quit_vim.png)
 `:w` <ins>**w**</ins>rite current file\
 `:w file_name` save file and give it a name\
 `:wq` save and quit
