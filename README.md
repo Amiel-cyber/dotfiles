@@ -1,5 +1,6 @@
 # Vim Basics
-[powerpoint slides](https://sdsuedu-my.sharepoint.com/:p:/g/personal/anavaestrada0616_sdsu_edu/EQs_M5IqhHlLoS5FR-r-J7UBPXdZtv-DszFCcTTqPGYoKw?e=pu93rx)
+# I will be adding more Vim tutorials, so make sure you come back!
+[Powerpoint Slides](https://sdsuedu-my.sharepoint.com/:p:/g/personal/anavaestrada0616_sdsu_edu/EQs_M5IqhHlLoS5FR-r-J7UBPXdZtv-DszFCcTTqPGYoKw?e=pu93rx)
 ## Movements
 ### Basic Movements
 <pre>
