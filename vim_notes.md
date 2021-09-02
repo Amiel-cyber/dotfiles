@@ -132,4 +132,4 @@ h    j    k  l
 `vi [{ | ( | '| "| p]` Select **i**nside braces, brackets, quotes or inside paragraph.\
 `va [{ | ( | '| "| p]` Select **a**round and including braces, brackets, quotes or delete a paragraph.
 
-######Mostly all editing operators can be combined with word movements for faster editing.
+###### Mostly all editing operators can be combined with word movements for faster editing.
