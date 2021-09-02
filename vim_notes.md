@@ -1,8 +1,8 @@
 # Vim Basics
 
 ## Movements
-left down up right
-h    j    k  l
+left down up right\
+`h    j    k  l`
 
 ### Scrolling
 `<ctrl d>` move half a page **d**own.\
